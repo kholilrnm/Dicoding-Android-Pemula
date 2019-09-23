@@ -1,5 +1,5 @@
-## Dicoding_Android_Pemula
-Ini adalah submission android di kursus dicoding.com
+## Dicoding Android Pemula
+Ini adalah submission android di kursus dicoding.com, semoga repository ini menjadikan referensi kawan-kawan jauh lebih baik dari saya.
 
 ## Gambaran demo aplikasi
 
