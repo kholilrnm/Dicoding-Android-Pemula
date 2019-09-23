@@ -2,8 +2,8 @@
 Ini adalah submission android di kursus dicoding.com, semoga repository ini bermanfaat menjadikan referensi kawan-kawan jauh lebih baik dari saya. terima kasih happy code :smile:
 
 ## Gambaran demo aplikasi
-Bertema : List View Makanan khas surabaya
-Language : Java
+<p>Bertema : List View Makanan khas surabaya</p>
+<p>Language : Java</p>
 
 * Layout Utama
 
