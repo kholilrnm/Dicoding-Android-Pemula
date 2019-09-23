@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daftar Makanan</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="detail_makanan">Detail Makanan</string>
+    <string name="menuInflater"></string>
+
+</resources>
