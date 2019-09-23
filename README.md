@@ -3,6 +3,7 @@ Ini adalah submission android di kursus dicoding.com, semoga repository ini berm
 
 ## Gambaran demo aplikasi
 Bertema : List View Makanan khas surabaya
+Language : Java
 
 * Layout Utama
 
@@ -24,4 +25,4 @@ Bertema : List View Makanan khas surabaya
 
 ## Min Requirements
 - Android Studio Versi 3.5 (Jika kebawah harus diupdate)
-- Aplikasi hanya dapat diinstal pada Hp android 5.1 (Lolipop)
+- Aplikasi hanya dapat diinstal pada Hp android 5.1 (Lollipop)
