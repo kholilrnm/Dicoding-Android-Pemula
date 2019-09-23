@@ -20,7 +20,7 @@ Language : Java
 ## Cara Instalasi
 1. Clone repository ini
 2. Ekstrak Repository tersebut, Copy ke "C:\Users\Kholil\AndroidStudioProjects"
-   * Catatan : ganti "kholil" user kalian (intinya copy di folder project android)
+   * Catatan : ganti "kholil" jadi user pc kalian (intinya copy di folder project android)
 3. Happy Code
 
 ## Min Requirements
