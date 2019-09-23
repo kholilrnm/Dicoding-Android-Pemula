@@ -5,4 +5,4 @@ Ini adalah submission android di kursus dicoding.com
 
 ### Layout Utama
 
-<p align="center"><img src="https://i.postimg.cc/sx3CBDfz/Screenshot-2019-09-23-21-30-43-22.png" width="300px" height="500px"></p>
+<p align="center"><img src="https://i.postimg.cc/sx3CBDfz/Screenshot-2019-09-23-21-30-43-22.png" width="300px" height="600px"></p>
