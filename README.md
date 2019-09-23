@@ -17,4 +17,11 @@ Bertema : List View Makanan khas surabaya
 <p align="center"><img src="https://i.postimg.cc/DwH75XPy/Screenshot-2019-09-23-21-30-51-35.png" width="300px" height="420px"></p>
 
 ## Cara Instalasi
+1. Clone repository ini
+2. Ekstrak Repository tersebut, Copy ke "C:\Users\Kholil\AndroidStudioProjects"
+   * Catatan : ganti "kholil" user kalian (intinya copy di folder project android)
+3. Happy Code
 
+## Min Requirements
+- Android Studio Versi 3.5 (Jika kebawah harus diupdate)
+- Aplikasi hanya dapat diinstal pada Hp android 5.1 (Lolipop)
