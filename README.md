@@ -27,4 +27,4 @@ Ini adalah submission android di kursus dicoding.com, semoga repository ini berm
 
 ## Min Requirements
 - Android Studio Versi 3.5 (Jika kebawah harus diupdate)
-- Aplikasi hanya dapat diinstal pada Hp android 5.1 API Lv 21(Lollipop)
+- Aplikasi hanya dapat diinstal pada Hp android 5.1 API Lv 21(Lollipop) atau diatasnya
